@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\gorselprogramlama1\FOLDERBROWSERDİALOG1\bin\Debug\FOLDERBROWSERDİALOG1.exe.config
+C:\Users\user\Desktop\gorselprogramlama1\FOLDERBROWSERDİALOG1\bin\Debug\FOLDERBROWSERDİALOG1.exe
+C:\Users\user\Desktop\gorselprogramlama1\FOLDERBROWSERDİALOG1\bin\Debug\FOLDERBROWSERDİALOG1.pdb
+C:\Users\user\Desktop\gorselprogramlama1\FOLDERBROWSERDİALOG1\obj\Debug\FOLDERBROWSERDİALOG1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\gorselprogramlama1\FOLDERBROWSERDİALOG1\obj\Debug\FOLDERBROWSERDİALOG1.Form1.resources
+C:\Users\user\Desktop\gorselprogramlama1\FOLDERBROWSERDİALOG1\obj\Debug\FOLDERBROWSERDİALOG1.Properties.Resources.resources
+C:\Users\user\Desktop\gorselprogramlama1\FOLDERBROWSERDİALOG1\obj\Debug\FOLDERBROWSERDİALOG1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\gorselprogramlama1\FOLDERBROWSERDİALOG1\obj\Debug\FOLDERBROWSERDİALOG1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gorselprogramlama1\FOLDERBROWSERDİALOG1\obj\Debug\FOLDERBROWSERDİALOG1.exe
+C:\Users\user\Desktop\gorselprogramlama1\FOLDERBROWSERDİALOG1\obj\Debug\FOLDERBROWSERDİALOG1.pdb
